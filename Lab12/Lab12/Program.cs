@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: Saturn
  * Date: 21.09.2020
@@ -18,6 +18,7 @@ namespace Lab12
 				
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey();
+			Hello World?!
 		}
 	}
 }
