@@ -12,8 +12,6 @@ namespace Lab12
 {
 	class Program
 	{
-<<<<<<< HEAD
-=======
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
@@ -23,5 +21,4 @@ namespace Lab12
 			Hello World?!
 		}
 	}
->>>>>>> e983f3227b5ca9efe83cd2582ac1114c9febef1e
 }
